@@ -2,10 +2,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building amazing things with **Flutter**
-- 🌱 Always learning and exploring **modern mobile technologies**
-- 🤝 I’m open to **collaboration** on innovative mobile projects
-- 💬 Ask me about **Flutter, Firebase, REST APIs, OpenAI Integration**
+- 🧠 **Reverse Engineering & Memory Manipulation** — Hunting offsets and pointers to develop sophisticated game internals using **C++** and **Python**
+- 🕹️ Architecting advanced gameplay systems and frameworks within the **Garry's Mod** ecosystem (**Helix** & **Lilia**)
+- ⚛️ Engineering modern, type-safe web interfaces using **React** and **TypeScript**
+- 🛠️ Building high-performance automation tools and low-level utilities with **Python** and **Rust**
+- 🚀 Focused on **System Optimization**, **Server Architecture**, and **Internal Tooling**
 - 📫 Reach me at **karademirburak04@gmail.com**
 
 ---
